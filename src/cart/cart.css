@@ -1,0 +1,9 @@
+.cart {
+  flex-grow: 1;
+}
+
+.cart-buttons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}

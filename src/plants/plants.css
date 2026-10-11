@@ -1,0 +1,20 @@
+.plants {
+  flex-grow: 2;
+}
+
+.plants ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.plant {
+  width: 10rem;
+  border: 0.1rem solid lightgray;
+  padding: 1rem;
+}
+
+.plant-image {
+  font-size: 4rem;
+  text-align: center;
+}
